@@ -1,0 +1,7 @@
+b : 10001 : Java Basics : Science : 11.50 : 20003
+ b : 10002 : Advanced Java : Science : 10.99 : 20003
+/b : 10003 : The Making of Apples : Science : 10.99 : 20001
+b:10004:Mary Knows Best:Science:10.99:20002
+
+a:20001:John Smith:Computers St. 50 Seattle 
+a : 20002 : Mary Jones : Literature Lane 25
